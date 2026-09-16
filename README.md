@@ -1,3 +1,5 @@
 # TIL
 
-학습 개념 기록. 검증된 공개 문서가 발행되면 목록이 자동 갱신됩니다.
+학습 개념 기록
+
+- [Linux 셸: 명령, 경로와 도움말](linux-shell-commands-paths-help.md)
