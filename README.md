@@ -2,6 +2,7 @@
 
 학습 개념 기록
 
+- [브라우저의 실행 경계와 응답성](browser-execution-boundaries-and-responsiveness.md)
 - [fork, exec, wait: 프로세스 생성과 종료 상태 수집](fork-exec-wait.md)
 - [프론트엔드 아키텍처와 품질 속성](frontend-architecture-quality-attributes.md)
 - [HTML·DOM·화면과 스크립트 실행 시점](html-dom-rendering-boundaries.md)
