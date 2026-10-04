@@ -4,6 +4,7 @@
 
 - [fork, exec, wait: 프로세스 생성과 종료 상태 수집](fork-exec-wait.md)
 - [프론트엔드 아키텍처와 품질 속성](frontend-architecture-quality-attributes.md)
+- [HTML·DOM·화면과 스크립트 실행 시점](html-dom-rendering-boundaries.md)
 - [Linux 프로그램과 프로세스: PID, 부모 관계와 실행 상태](linux-program-process-pid-parent-states.md)
 - [Linux 셸: 명령, 경로와 도움말](linux-shell-commands-paths-help.md)
 - [프로그램과 프로세스: PID, 부모·자식, 실행 상태](program-process-pid.md)
